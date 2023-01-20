@@ -7,4 +7,8 @@ public class StackAndHeapMemory {
     https://www.baeldung.com/java-stack-heap#summary
     */
 
+    /*
+    Every thread has got their own thread stack.
+    */
+
 }
